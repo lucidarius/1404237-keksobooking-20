@@ -1,7 +1,7 @@
 # Личный проект «Кексобукинг» [![Build status][travis-image]][travis-url]
 
 * Студент: [Дмитрий Артемов](https://up.htmlacademy.ru/javascript/20/user/1404237).
-* Наставник: `Игорь Казанцев`.
+* Наставник: `Игорь Казанцев`(https://htmlacademy.ru/profile/id572311).
 
 ---
 
